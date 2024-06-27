@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ecfb879-b3ee-4bbb-90b8-20dde4e0b34c" name="Changes" comment="Changes on 4th evng ofmarch" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.21.0/selenium-api-4.21.0.jar!/org/openqa/selenium/JavascriptExecutor.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MavenProject/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MavenProject/src/test/java/TestRunner/testRunner.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2b7r0C1M1xj6z37lxOt2FUbWwQr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Cucumber Java.Feature: ANWB (1).executor": "Run",
+    "Cucumber Java.Feature: ANWB.executor": "Run",
+    "Cucumber Java.Feature: ANWBProduct.executor": "Run",
+    "Cucumber Java.Feature: ANWB_New.executor": "Debug",
+    "Cucumber Java.Feature: Admin(LI≠PRO-WithEkyc).executor": "Run",
+    "Cucumber Java.Feature: Admin.executor": "Run",
+    "Cucumber Java.Feature: Car.executor": "Run",
+    "Cucumber Java.Feature: CreateEvent.executor": "Run",
+    "Cucumber Java.Feature: DwellingHouse.executor": "Run",
+    "Cucumber Java.Feature: Individual.executor": "Run",
+    "Cucumber Java.Feature: MotorCycle(without risk inspection).executor": "Run",
+    "Cucumber Java.Feature: Test.executor": "Run",
+    "Cucumber Java.Feature: ToDo.executor": "Run",
+    "Cucumber Java.Feature: form.executor": "Run",
+    "Cucumber Java.Feature: proposal.executor": "Run",
+    "Cucumber Java.Scenario: .executor": "Run",
+    "Cucumber Java.Scenario: Add additional protection and create a policy.executor": "Run",
+    "Cucumber Java.Scenario: Aviva application login verification.executor": "Run",
+    "Cucumber Java.Scenario: Create Event for Customer.executor": "Run",
+    "Cucumber Java.Scenario: Fill Personal Details.executor": "Run",
+    "Cucumber Java.Scenario: Fill in need analysis.executor": "Run",
+    "Cucumber Java.Scenario: Login and Access Quality Check.executor": "Run",
+    "Cucumber Java.Scenario: Purchase Motor Insurance Policy.executor": "Run",
+    "Cucumber Java.Scenario: Team tab.executor": "Run",
+    "Cucumber Java.Scenario: Update Lead Status and Disposition.executor": "Run",
+    "Cucumber Java.Scenario: Verify New Lead Creation Process.executor": "Run",
+    "Cucumber Java.Scenario: supervisor tab.executor": "Run",
+    "JUnit.ANWBRunner.executor": "Run",
+    "JUnit.AvivaAdminRunner.executor": "Run",
+    "JUnit.OonaRunner.executor": "Run",
+    "JUnit.PramericaRunner.executor": "Run",
+    "JUnit.testRunner.executor": "Debug",
+    "Maven.maven-project [-Dtest=TestRunner.OonaRunner...].executor": "Run",
+    "Maven.maven-project [deploy,-DforkCount=0...].executor": "Debug",
+    "Maven.maven-project [install].executor": "Run",
+    "Maven.maven-project [site].executor": "Run",
+    "Maven.maven-project [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "dev",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/AvivaCucumber1-dev",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="StepDefinitions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\AvivaCucumber1-dev\MavenProject\src\test\resources" />
+      <recent name="C:\Users\User\Desktop\AvivaCucumber1-dev\MavenProject\src\test\java\LInotequallPROWithEkyc" />
+      <recent name="C:\Users\User\Health-selenium\MavenProject\src\test\java\Features\ADMIN" />
+      <recent name="C:\Users\User\Health-selenium\MavenProject\src\test\java\Features\LI≠PRO-WithEkyc" />
+      <recent name="C:\Users\User\Health-selenium\MavenProject\src\test\java\Features\LI=PRO-WithEKYC" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Health-selenium\MavenProject\src\test\java" />
+      <recent name="C:\Users\User\Health-selenium\MavenProject\src\test\resources" />
+      <recent name="C:\Users\User\Health-selenium\MavenProject\src\test\java\Features\LI=PRO-WithoutEkyc" />
+      <recent name="C:\Users\User\Health-selenium\MavenProject\src\test\java\FeaturesTwo" />
+      <recent name="C:\Users\User\Health-selenium\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="StepDefinitions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OonaRunner">
+    <configuration name="Feature: DwellingHouse" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/MavenProject/src/test/java/Features/OONA/HomeFlow/DwellingHouse.feature" />
+      <option name="GLUE" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="maven-project" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: DwellingHouse" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Individual" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/MavenProject/src/test/java/Features/OONA/AgentOnboarding/Individual.feature" />
+      <option name="GLUE" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="maven-project" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Individual" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: MotorCycle(without risk inspection)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/MavenProject/src/test/java/Features/OONA/AgentFlow/MotorCycle(without risk inspection).feature" />
+      <option name="GLUE" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="maven-project" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: MotorCycle(without risk inspection)" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OonaRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.OonaRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.testRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OonaRunner" />
+        <item itemvalue="JUnit.testRunner" />
+        <item itemvalue="Cucumber Java.Feature: Individual" />
+        <item itemvalue="Cucumber Java.Feature: DwellingHouse" />
+        <item itemvalue="Cucumber Java.Feature: MotorCycle(without risk inspection)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ecfb879-b3ee-4bbb-90b8-20dde4e0b34c" name="Changes" comment="" />
+      <created>1705576735776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705576735776</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Changes on 4th ofmarch">
+      <option name="closed" value="true" />
+      <created>1712008949021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712008949021</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes on 4th evng ofmarch">
+      <option name="closed" value="true" />
+      <created>1712070004963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712070004963</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Changes on 4th ofmarch" />
+    <MESSAGE value="Changes on 4th evn ofmarch" />
+    <MESSAGE value="Changes on 4th evng ofmarch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes on 4th evng ofmarch" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

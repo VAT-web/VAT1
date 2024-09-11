@@ -1,0 +1,1 @@
+{"uuid":"56592bd4-6acd-47a8-b427-e6051b8547dd","name":"Tests.RecruitmentTest.setUp","children":["625258ee-eb20-4e01-b4c3-3f863a832e14"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721730589946,"stop":1721730590002}],"afters":[],"start":1721730589946,"stop":1721730590002}

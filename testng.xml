@@ -1,0 +1,35 @@
+<!--<suite name="Suite" parallel="tests" thread-count="2">-->
+<!--    <test name="Test1">-->
+<!--        <classes>-->
+<!--            <class name="Tests.Recruitment"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="Test2">-->
+<!--        <classes>-->
+<!--            <class name="Tests.AddRecruitmentLead"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--</suite>-->
+
+
+<!--        Using TestNG for Sequential Execution-->
+<!--        You can configure TestNG to run tests in a specific order or ensure that multiple classes are run one after the other on a single device.-->
+
+<!--        Example TestNG configuration:-->
+
+<suite name="Suite">
+<test name="TestGroup">
+    <classes>
+        <class name="Tests.Recruitment"/>
+
+        <methods>
+                <exclude
+                        name="Tests.Recruitment">
+                </exclude>
+
+
+        </methods>
+        <class name="Tests.AddRecruitmentLead"/>
+    </classes>
+</test>
+</suite>

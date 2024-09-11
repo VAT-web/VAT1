@@ -1,0 +1,19 @@
+userName: venkateshkoochan_3qFVYM
+accessKey: eMKJzn3Ts7sUHrsbGyyL
+framework: testng
+
+
+app: bs://ad0f06871d29bca5d43dd93cf1fb614040f1526c
+platforms:
+  - platformName: android
+    deviceName: Samsung Galaxy Note 9
+    platformVersion: 8.1
+  - platformName: android
+    deviceName: Google Pixel 7 Pro
+    platformVersion: 13.0
+  - platformName: android
+    deviceName: OnePlus 9
+    platformVersion: 11.0
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample

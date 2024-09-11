@@ -1,0 +1,4 @@
+com\browserstack\LocalTest.class
+com\browserstack\AppiumTest.class
+com\browserstack\FirstTest.class
+com\browserstack\Test.class

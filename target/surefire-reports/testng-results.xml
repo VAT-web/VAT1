@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-09T18:32:39 IST" name="First" finished-at="2024-09-09T18:33:16 IST" duration-ms="36959">
+    <groups>
+    </groups>
+    <test started-at="2024-09-09T18:32:39 IST" name="FirstTest-1" finished-at="2024-09-09T18:33:08 IST" duration-ms="29487">
+      <class name="com.browserstack.FirstTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.FirstTest@4e904fd5]" started-at="2024-09-09T18:32:39 IST" name="setUp" finished-at="2024-09-09T18:32:58 IST" duration-ms="19059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:com.browserstack.FirstTest@4e904fd5]" started-at="2024-09-09T18:32:58 IST" name="test" finished-at="2024-09-09T18:33:06 IST" duration-ms="8123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.FirstTest@4e904fd5]" started-at="2024-09-09T18:33:06 IST" name="tearDown" finished-at="2024-09-09T18:33:08 IST" duration-ms="2187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.FirstTest -->
+    </test> <!-- FirstTest-1 -->
+    <test started-at="2024-09-09T18:32:39 IST" name="FirstTest-0" finished-at="2024-09-09T18:33:12 IST" duration-ms="32817">
+      <class name="com.browserstack.FirstTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.FirstTest@476a736d]" started-at="2024-09-09T18:32:39 IST" name="setUp" finished-at="2024-09-09T18:32:59 IST" duration-ms="20732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:com.browserstack.FirstTest@476a736d]" started-at="2024-09-09T18:32:59 IST" name="test" finished-at="2024-09-09T18:33:09 IST" duration-ms="9147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.FirstTest@476a736d]" started-at="2024-09-09T18:33:09 IST" name="tearDown" finished-at="2024-09-09T18:33:12 IST" duration-ms="2822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.FirstTest -->
+    </test> <!-- FirstTest-0 -->
+    <test started-at="2024-09-09T18:32:39 IST" name="FirstTest-2" finished-at="2024-09-09T18:33:16 IST" duration-ms="36959">
+      <class name="com.browserstack.FirstTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.FirstTest@15dd5ac2]" started-at="2024-09-09T18:32:39 IST" name="setUp" finished-at="2024-09-09T18:33:02 IST" duration-ms="23177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:com.browserstack.FirstTest@15dd5ac2]" started-at="2024-09-09T18:33:02 IST" name="test" finished-at="2024-09-09T18:33:13 IST" duration-ms="11363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.FirstTest@15dd5ac2]" started-at="2024-09-09T18:33:13 IST" name="tearDown" finished-at="2024-09-09T18:33:16 IST" duration-ms="2305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.FirstTest -->
+    </test> <!-- FirstTest-2 -->
+  </suite> <!-- First -->
+</testng-results>

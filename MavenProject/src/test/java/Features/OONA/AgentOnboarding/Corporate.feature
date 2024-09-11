@@ -24,23 +24,24 @@ Feature: Perform actions on Oona website
     And enter Company's PIC Email Address
     And click on submit tab button
 
-#    below Three are click NO
+#    below Three are click NO  #
 
-#    And click on No Company Director's ID Card details
-#    And click on no company’s Taxpayer ID NPWP details
-#    And click on No Bank Account details
+    And click on No Company Director's ID Card details
+    And click on no company’s Taxpayer ID NPWP details
+    And click on No Bank Account details
 
+          #    below Three are click YES  #
 
-  And click on Yes Company Director's ID Card details
-    And click on proceed mobile to scan Taxpayer details
-    And click on continue button
-    And enter canvas signature
-    And click on submit button after signature
-    And click on Yes Taxpayer ID taxpayer NPWP details now?
-    And click on Proceed Mobile
-    And click on yes Bank Account details now
-    And choose bank name
-    And enter Bank Account Holder's Name
-    And enter Bank Account Number
-    And click on submitBun
-
+#  And click on Yes Company Director's ID Card details
+#    And click on proceed mobile to scan Taxpayer details
+#    And click on continue button
+#    And enter canvas signature
+#    And click on submit button after signature
+#    And click on Yes Taxpayer ID taxpayer NPWP details now?
+#    And click on Proceed Mobile
+#    And click on yes Bank Account details now
+#    And choose bank name
+#    And enter Bank Account Holder's Name
+#    And enter Bank Account Number
+#    And click on submitBun
+#

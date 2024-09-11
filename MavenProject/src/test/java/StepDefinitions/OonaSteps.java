@@ -2616,19 +2616,7 @@ public class OonaSteps extends BaseClass {
 
     @When("enter mobile number")
     public void enter_mobile_number() throws InterruptedException {
-        // WebElement mobileNumberInput = driver.findElement(By.xpath("//input[@id='phonenumber']"));
-//        WebElement mobileNumberInput = driver.findElement(By.xpath("//input[@id='phonenumber']")); // Replace with your locator
-//        String randomMobileNumber = generateRandomMobileNumberStartingWith9();
-//        mobileNumberInput.sendKeys(randomMobileNumber);
-//        mobileNumberInput.sendKeys(Keys.ENTER);
-//    }
-//
-//// Add assertion to verify mobile number field is populated if needed
-//
-//    private String generateRandomMobileNumberStartingWith9() {
-//        Random random = new Random();
-//        int randomNumber = random.nextInt(900000000) + 100000000; // Generates a 9-digit number
-//        return "9" + randomNumber;
+
         By mobileNumberField = By.xpath("//input[@id='phonenumber']"); // Replace with actual locator
 
         // Generate a random mobile number
@@ -2709,8 +2697,8 @@ public class OonaSteps extends BaseClass {
 
 //        WebElement email = driver.findElement(By.xpath("//input[@id='individualEmailaddress']"));
 //        email.sendKeys("vnhfhgk@gmail.com");
-        // Generate a random email address
-        String randomEmail = generateRandomEmail();
+         // Generate a random email address
+       String randomEmail = generateRandomEmail();
 
         // Find the email input field and enter the random email
         WebElement emailInput = driver.findElement(By.xpath("//input[@id='individualEmailaddress']"));
@@ -2991,6 +2979,7 @@ public class OonaSteps extends BaseClass {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+        Thread.sleep(3000);
     }
 
     @When("click on submit button after signature")

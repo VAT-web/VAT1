@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests" >
+    <test name="Scenario 1 - Samsung Galaxy S22 Ultra">
+        <parameter name="deviceIndex" value="0"/>
+        <classes>
+            <class name="Tests.AddRecruitmentLead"/>
+        </classes>
+    </test>
+
+    <test name="Scenario 2 - Google Pixel 7 Pro">
+        <parameter name="deviceIndex" value="1"/>
+        <classes>
+            <class name="Tests.LoginSample"/>
+        </classes>
+    </test>
+
+    <test name="Scenario 3 - OnePlus 9">
+        <parameter name="deviceIndex" value="2"/>
+        <classes>
+            <class name="Tests.Recruitment"/>
+        </classes>
+    </test>
+</suite>

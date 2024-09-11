@@ -1,0 +1,24 @@
+userName: venkateshkoochan_3qFVYM
+accessKey: eMKJzn3Ts7sUHrsbGyyL
+framework: testng
+app: bs://ad0f06871d29bca5d43dd93cf1fb614040f1526c
+platforms:
+  - platformName: android
+    deviceName: Samsung Galaxy S22 Ultra
+    platformVersion: 12.0
+  - platformName: android
+    deviceName: Google Pixel 7 Pro
+    platformVersion: 13.0
+  - platformName: android
+    deviceName: OnePlus 9
+    platformVersion: 11.0
+parallelsPerPlatform: 1
+browserstackLocal: true
+buildName: bstack-demo
+buildIdentifier: ${BUILD_NUMBER}
+projectName: BrowserStack Sample
+testObservability: true
+debug: true
+networkLogs: true
+percy: false
+percyCaptureMode: auto
